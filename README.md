@@ -213,4 +213,4 @@ jZip is offered as a full free version with all features and updates included. N
 Don't miss out on the power of jZip! Download your free version today and experience exceptional file compression like never before.
 
 ---
-**Last updated:** 2026-10-25 18:12:27 UTC
+**Last updated:** 2026-10-25 21:29:50 UTC
